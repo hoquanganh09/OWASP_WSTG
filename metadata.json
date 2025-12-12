@@ -1,0 +1,5 @@
+{
+  "name": "OWASP WSTG v42 Assistant",
+  "description": "An interactive Web Security Testing Guide (v42) companion app featuring progress tracking and AI-powered security testing advice using Google Gemini.",
+  "requestFramePermissions": []
+}
